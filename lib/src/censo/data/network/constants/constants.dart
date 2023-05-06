@@ -1,0 +1,1 @@
+const String apiCensoBaseURI = "https://servicodados.ibge.gov.br/api/v2/censos/nomes/";

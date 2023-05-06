@@ -1,0 +1,4 @@
+#Sat May 06 15:08:58 BRT 2023
+base.0=/Users/Ronaldo/Documents/Project/flutter_edusoft/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
